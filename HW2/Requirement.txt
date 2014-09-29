@@ -1,0 +1,20 @@
+Part 1 - Reading Assignment (MongoDB Ch1, Ch2, Ch3, and Ch4 - Attached)
+
+Part 2- Reading Assignment
+Read the following papers and provide a short summary for each paper.
+- Application of NoSQL Database in Web Crawling
+- Comparing NoSQL MongoDB to an SQL
+- Data Aggregation System
+
+Part 3 - Programming Assignment
+Create a database for a Contact Management System in MongoDB.
+You could use any attributes you like, firt name, last name, phone, address, zip, etc.
+Create 20 records. Then delete the randomly selected 10 records. Then update some info from each of the first 5 records.
+You could take the screenshots by pressing ALT + PRT SCRN everytime you execute a command, and paste into a word document.
+You could then submit this document.
+
+Part 4 - Programming Assignment
+Write a Java program to read the attached log files, and insert into 3 different collections.
+Once the logs are inserted into MongoDB, ask the user to perform several operations on the data.
+Such as, the user might search the logs with IP addresses,  or another keyword, and then display the results.
+It could be a console application, swing application, or a web-based application.
