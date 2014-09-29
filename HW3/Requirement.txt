@@ -1,0 +1,19 @@
+Part 1. Reading Assignment (Chapters Attached)
+Chapter 5 - Queries and aggregation
+Chapter 6 - Updates, atomic operations, and deletes
+Chapter 7 - Indexing and query optimization
+
+Part 2. Reading Assignment
+Read the following papers and provide a short summary for each paper.
+- A Generic Robot Database and its Application in Fault Analysis and Performance Evaluation
+- A Comparison of Join Algorithms for Log Processing in MapReduce
+
+Part 3. Use the database created from the access.log to implement MapReduce to find the number of times each IP accessed the website.
+
+Part 4. Use the database created from the access.log to implement MapReduce to find the number of times each HTTP status code appeared in the log files (i.e., number of times 404 appeared).
+
+Part 5. Use the database created from the error.log to implement MapReduce to find the number of times "notice", "error", or "warning" appeared in the log.
+
+Part 6. Use the NYSE database (only stock stock symbols starting with A) to find the average price of stock_price_high values for each stock.
+
+Part 7. Modify Part 5 by adding a finalizer to find out the overall average stock price of all stocks.
