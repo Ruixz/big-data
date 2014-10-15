@@ -1,0 +1,22 @@
+PART 1 - Reading Assignment (Hadoop in Action)
+   Ch 4. Writing basic MapReduce programs
+   Ch 5. Advanced MapReduce
+   Ch 6. Programming Practices
+
+PART 2 - Read the following MapReduce papers, and write a short report/summary for each paper.
+   Paper 1 - The Limitation of MapReduce A Probing Case and a Lightweight Solution
+   Paper 2 - MapReduce is Good Enough?
+   Paper 3 - MapReduce: Limitations, Optimizations and Open Issues
+
+PART 3 - Read the following paper (attached), and write a short summary/report.
+Business Value of Hadoop (HortonWorks Paper)
+
+PART 4 - Programming Assignment
+Execute each hadoop command once, and place the screenshots into a word file.
+If you cannot run a command because a cluster may be needed, you may simply write the definition of that command.
+http://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-common/CommandsManual.html
+
+PART 5 - Programming Assignment
+Insert access.log (provided before) into HDFS, and then write a MapReduce in Java to find the number of times each IP accessed the website, and run the MapReduce program from the Hadoop client.
+
+due by Oct. 18
