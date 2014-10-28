@@ -1,0 +1,27 @@
+PART 1 - Read the following chapters (HBase in Action - attached)
+   Ch01. Introducing HBase
+   Ch02. Getting started
+   Ch03. Distributed HBase, HDFS, and MapReduce
+   Ch04. HBase table design
+
+PART 2 - Read the following paper (attached), and write a short summary/report.
+Analysis of HDFS Under HBase: A Facebook Messages Case Study
+
+PART 3 - Execute each HBase shell command once, and place the screenshots into a word file.
+http://wiki.apache.org/hadoop/Hbase/Shell
+
+PART 4 - Programming Assignment (You may refere to Attached HBase Client API Reference).
+Read the MovieLens 1M Dataset (1 million ratings from 6000 users on 4000 movies) into HBase (HBase STANDALONE MODE) via a
+Java application of your choice, i.e., console application, web application, swing application.
+Once the data are inserted into HBase, ask the user to perform several operations on the data.
+http://grouplens.org/datasets/movielens/
+
+PART 5 - Programming Assignment
+Read the BookCrossing (BX) dataset into HBase (HBase DISTRIBUTED MODE) via a
+Java application of your choice, i.e., console application, web application, swing application.
+Once the data are inserted into HBase, ask the user to perform several operations on the data.
+http://grouplens.org/datasets/book-crossing/
+
+Due Date
+Sunday, October 26, 2014
+11:59 PM
