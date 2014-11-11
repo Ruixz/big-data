@@ -1,0 +1,30 @@
+PART 1 - Reading Assignment (HBase in Action - Attached)
+   Ch.07 - HBase by example: OpenTSDB
+   Ch.08 - Scaling GIS on HBase
+   Ch.09 - Deploying HBase
+   Ch.10 - Operations
+
+PART 2 - Reading Assignment (Programming Pig)
+   Ch.06 - Advanced Pig Latin
+   Ch.07 - Developing and Testing Pig Latin Scripts
+   Ch.08 - Making Pig Fly
+
+PART 2 - Programming Assignment
+ Use each Load/Store Function ONCE to simply load and dump the data on the screen.
+ http://pig.apache.org/docs/r0.12.1/func.html 
+
+PART 3 - Programming Assignment - Apache Pig (Use Grunt Shell)
+ Use the NYSE database (only stock stock symbols starting with A) to find the average price of stock_price_high values for each stock.
+
+PART 4 - Programming Assignment - Apache Pig (Use Pig Server)
+ Use the access log to implement Pig to find the number of times each IP accessed the website.
+
+PART 5 - Programming Assignment - Apache Pig (Use .pig scripts)
+   (1 million ratings from 6000 users on 4000 movies).
+   http://grouplens.org/datasets/movielens/
+  
+   Task 1. Write a Pig Script to find the top 25 rated movies in the movieLens dataset
+   Task 2. Write a Pig Script to find the number of males and females in the movielens dataset
+   Task 3. Write a Pig Script to find the number of movies rated by different users
+
+PART 6 - Redo one of the Parts above (you decide which part you want to use) to integrate a UDF.
